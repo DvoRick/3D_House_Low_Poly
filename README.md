@@ -1,38 +1,32 @@
-**Learning Blender using a reference**
+# 🏰 3D Model of the House
 
-<img width="1920" height="1920" alt="Render_House" src="https://github.com/user-attachments/assets/0aeebbd1-b94a-498e-b929-415f8025527a" />
+A stylized 3D model of a house in a low‑poly style, created in Blender.
 
+<div align="center">
+ <img src="https://github.com/DvoRick/3D_House_Low_Poly/blob/main/resolt_images/House_Resolt.png" width="500">
+</div>
 
-# 🏰 3D Модель Домика
-
-Стилизованная 3D модель домика в low-poly стиле, созданная в Blender.
-
-![Превью модели](images/preview.png)
-
-##  Галерея
+##  Gallery
 
 <div align="center">
 
-| Вид спереди | Вид сбоку | Вид сверху |
-|:-----------:|:---------:|:----------:|
-| ![Front](images/front.png) | ![Side](images/side.png) | ![Top](images/top.png) |
-
-| Детали | Wireframe | Рендер |
-|:------:|:---------:|:-------:|
-| ![Details](images/details.png) | ![Wireframe](images/wireframe.png) | ![Render](images/render.png) |
+| Side | Balcony |
+|:-----------:|:---------:|
+| <img src="https://github.com/DvoRick/3D_House_Low_Poly/blob/main/resolt_images/House_Resolt%202.png" width="350"> | <img src="https://github.com/DvoRick/3D_House_Low_Poly/blob/main/resolt_images/House_Resolt%203.png" width="350"> |
+| Tower | Cannon |
+| <img src="https://github.com/DvoRick/3D_House_Low_Poly/blob/main/resolt_images/House_Resolt%205.png" width="350"> | <img src="https://github.com/DvoRick/3D_House_Low_Poly/blob/main/resolt_images/House_Resolt%204.png" width="350"> |
 
 </div>
 
-## 🎨 Особенности
+## 🎨 Features
 
-- **Стиль**: Low-poly / стилизованная графика
-- **Текстуры**: PBR материалы
-- **Оптимизация**: Готово для игровых движков
-- **Формат**: .blend, .fbx, .obj
+- **Style**: Low-poly / stylized graphics
+- **Optimization**: Ready for game engines
+- **Format**: .blend
+- **Blender**: 5.2
 
-## 🛠️ Технологии
+## 📐 Add-ons
+- vertex_color_master_0.9.0-alpha_fixed
+- enhanced_vertex_color_tool
+- EasyHDRI-2.1.0
 
-- Blender 3.x/4.x
-- [Укажите другие инструменты, если использовались]
-
-##  Структура проекта
